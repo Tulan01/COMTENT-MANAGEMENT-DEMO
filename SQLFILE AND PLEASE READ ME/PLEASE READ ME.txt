@@ -1,0 +1,8 @@
+creat a data base named content
+import the content.sql file on mysql database
+then run php artisan serve
+or go to http://localhost/content/public/ and enjoy the project 
+admin http://localhost/content/public/login and enjoy the project 
+
+default username ppcctulan@gmail.com
+       password 12345678
